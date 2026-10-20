@@ -1,0 +1,22 @@
+japanese-release-notes
+Project attribution and maintenance: Xpotato.net / Xpotato1024
+
+This skill's original instructions, templates, documentation, and tests are
+licensed under AGPL-3.0-only (GNU Affero General Public License version 3 only).
+Copyright remains with the respective copyright holders. This notice does not
+assign unverified ownership or relicense third-party material.
+Retain applicable copyright and license notices when conveying copies or
+modified versions, identify modifications and dates where required, and provide
+corresponding source under the applicable license terms. See LICENSE.
+
+These notices describe the skill distribution. Do not insert this skill's
+author credit or distribution license into generated release notes or ordinary
+user-facing output. Preserve the target software's own required copyright,
+license, third-party notices, and source offers. This boundary does not remove
+legal notices required when redistributing the skill itself, and does not claim
+rights over output or third-party content beyond what applicable law provides.
+See OUTPUT-PERMISSION.md for the output-use policy and additional permission for
+incorporating maintainer-owned template and example text into generated work.
+
+Minecraft is referenced only to describe a general changelog organization.
+This project is not affiliated with or endorsed by Mojang or Microsoft.

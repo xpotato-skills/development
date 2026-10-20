@@ -1,0 +1,4 @@
+interface:
+  display_name: "日本語リリースノート"
+  short_description: "変更の根拠を保ち、入手・更新方法が明確な日本語のリリース告知を作成"
+  default_prompt: "$japanese-release-notes を使って、対象版の変更点とダウンロード導線を整理した日本語リリースノートを作成してください。"

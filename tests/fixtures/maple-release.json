@@ -1,0 +1,23 @@
+{
+  "fictional": true,
+  "project": "Maple Notes",
+  "version": "1.4.0",
+  "previous_version": "1.3.2",
+  "project_credit": "Maple Team",
+  "project_license": "MIT",
+  "project_license_url": "https://example.invalid/maple/blob/v1.4.0/LICENSE",
+  "third_party_notice": "Birch parser — BSD-3-Clause",
+  "third_party_notice_url": "https://example.invalid/maple/blob/v1.4.0/THIRD-PARTY-NOTICES.txt",
+  "assets": [
+    {"platform": "Windows x64", "name": "maple-1.4.0-windows-x64.zip", "url": "https://example.invalid/maple/releases/download/v1.4.0/maple-1.4.0-windows-x64.zip"},
+    {"platform": "対応ソース", "name": "maple-1.4.0-source.tar.gz", "url": "https://example.invalid/maple/releases/download/v1.4.0/maple-1.4.0-source.tar.gz"}
+  ],
+  "changes": [
+    {"kind": "new", "fact": "検索結果を更新日時順に並べ替えられるようになった"},
+    {"kind": "fix", "fact": "空のノートをエクスポートすると失敗していた問題を修正した"}
+  ],
+  "installation": "ZIP を新しいフォルダーへ展開し、maple.exe を起動する",
+  "upgrade": "旧アプリを終了してから新しい版を起動する。ノートの形式変更はない",
+  "validation": "Windows x64 の fixture 検証と単体テストを実施。実端末への導入は未実施",
+  "known_limitations": "ネットワークフォルダー上のノートは未検証"
+}
